@@ -75,6 +75,11 @@ channels_to_post = {
 }
 ```
 
+## Demo
+
+https://github.com/VoidVampire/WhisperWatch/assets/80760499/74814a4a-e54e-4f72-bc09-45ee774bed4c
+
 ### Note:
 
-This project is primarily intended for educational purposes to learn about creating and managing Discord bots using discord.py.
+This project is primarily intended for educational purposes to learn about creating and managing Discord bots using discord.py. 
+Discord bot needs to be added in each server one wishes to monitor.
